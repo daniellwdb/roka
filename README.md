@@ -6,11 +6,6 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.gg/dAa4axurq7"
-    ><img
-      src="https://img.shields.io/discord/1136027658757603449.svg?color=7289DA&label=SUPPORT&style=for-the-badge"
-      alt="Discord"
-  /></a>
   <img
     src="https://img.shields.io/github/languages/top/daniellwdb/roka?style=for-the-badge"
     alt="Language"
